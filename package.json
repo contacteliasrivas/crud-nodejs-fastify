@@ -1,0 +1,27 @@
+{
+  "name": "crud-nodejs-fastify",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000c\u0000r\u0000u\u0000d\u0000-\u0000n\u0000o\u0000d\u0000e\u0000j\u0000s\u0000-\u0000f\u0000a\u0000s\u0000t\u0000i\u0000f\u0000y\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+  "start": "node src/app.js"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/contacteliasrivas/crud-nodejs-fastify.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/contacteliasrivas/crud-nodejs-fastify/issues"
+  },
+  "homepage": "https://github.com/contacteliasrivas/crud-nodejs-fastify#readme",
+  "dependencies": {
+    "@fastify/swagger": "^9.7.0",
+    "@fastify/swagger-ui": "^5.2.6",
+    "better-sqlite3": "^12.10.0",
+    "fastify": "^5.8.5"
+  }
+}
